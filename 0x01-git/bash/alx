@@ -1,1 +1,3 @@
-ALX School is so cool! cd ..
+/#/bin/bash
+echo "ALX School is cool!"
+
